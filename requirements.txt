@@ -2,3 +2,5 @@ datetime
 pandas
 matplotlib
 numpy
+rapidfuzz
+fuzzywuzzy
