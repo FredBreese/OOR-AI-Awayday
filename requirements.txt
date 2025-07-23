@@ -1,6 +1,42 @@
-datetime
+# Core data manipulation
 pandas
-matplotlib
 numpy
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+
+# Data/time handling
+python-dateutil
+pytz
+
+# Working with web APIs and text
+requests
+beautifulsoup4
+
+# Regex and string handling
+regex
+
+# Display tools and notebook enhancements
+ipywidgets
+IPython
+
+# Optional: for CSV/Excel/JSON variety
+openpyxl
+xlrd
+
+# Optional: if they explore stats or ML (scikit-learn, scipy)
+scikit-learn
+scipy
+
+# Optional: NLP
+nltk
+spacy
+
+# Jupyter rendering
+nbformat
+
+# Fuzzy matching
 rapidfuzz
 fuzzywuzzy
